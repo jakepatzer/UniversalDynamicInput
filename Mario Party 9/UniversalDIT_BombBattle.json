@@ -34,7 +34,15 @@
       "Back": "BombBattle\\XBOX ONE\\Back.png",
       "Button Start": "BombBattle\\XBOX ONE\\Start.png",
       "Button Guide": "BombBattle\\XBOX ONE\\Guide.png",
-      "Button Back": "BombBattle\\XBOX ONE\\Back.png"
+      "Button Back": "BombBattle\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "BombBattle\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "BombBattle\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "BombBattle\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "BombBattle\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "BombBattle\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "BombBattle\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "BombBattle\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "BombBattle\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "BombBattle\\XBOX ONE\\Button A.png",

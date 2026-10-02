@@ -34,7 +34,15 @@
       "Back": "GrowingUP\\XBOX ONE\\Back.png",
       "Button Start": "GrowingUP\\XBOX ONE\\Start.png",
       "Button Guide": "GrowingUP\\XBOX ONE\\Guide.png",
-      "Button Back": "GrowingUP\\XBOX ONE\\Back.png"
+      "Button Back": "GrowingUP\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "GrowingUP\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "GrowingUP\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "GrowingUP\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "GrowingUP\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "GrowingUP\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "GrowingUP\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "GrowingUP\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "GrowingUP\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "GrowingUP\\XBOX ONE\\Button A.png",

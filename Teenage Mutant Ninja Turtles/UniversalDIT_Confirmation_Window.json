@@ -34,7 +34,15 @@
       "Back": "Confirmation Window\\XBOX ONE\\Back.png",
       "Button Start": "Confirmation Window\\XBOX ONE\\Start.png",
       "Button Guide": "Confirmation Window\\XBOX ONE\\Guide.png",
-      "Button Back": "Confirmation Window\\XBOX ONE\\Back.png"
+      "Button Back": "Confirmation Window\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "Confirmation Window\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "Confirmation Window\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "Confirmation Window\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "Confirmation Window\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "Confirmation Window\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "Confirmation Window\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "Confirmation Window\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "Confirmation Window\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "Confirmation Window\\XBOX ONE\\Button A.png",

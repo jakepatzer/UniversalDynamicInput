@@ -35,7 +35,15 @@
       "Back": "Controller Settings\\XBOX ONE\\Back.png",
       "Button Start": "Controller Settings\\XBOX ONE\\Start.png",
       "Button Guide": "Controller Settings\\XBOX ONE\\Guide.png",
-      "Button Back": "Controller Settings\\XBOX ONE\\Back.png"
+      "Button Back": "Controller Settings\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "Controller Settings\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "Controller Settings\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "Controller Settings\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "Controller Settings\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "Controller Settings\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "Controller Settings\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "Controller Settings\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "Controller Settings\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "DInput/0/Bluetooth LE XINPUT compatible input device": "Controller Settings\\XBOX ONE\\Icon.png",

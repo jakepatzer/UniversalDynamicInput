@@ -35,7 +35,15 @@
       "Back": "Flat-Speed\\XBOX ONE\\Back.png",
       "Button Start": "Flat-Speed\\XBOX ONE\\Start.png",
       "Button Guide": "Flat-Speed\\XBOX ONE\\Guide.png",
-      "Button Back": "Flat-Speed\\XBOX ONE\\Back.png"
+      "Button Back": "Flat-Speed\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "Flat-Speed\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "Flat-Speed\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "Flat-Speed\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "Flat-Speed\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "Flat-Speed\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "Flat-Speed\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "Flat-Speed\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "Flat-Speed\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "DInput/0/Bluetooth LE XINPUT compatible input device": "Flat-Speed\\XBOX ONE\\Icon.png",

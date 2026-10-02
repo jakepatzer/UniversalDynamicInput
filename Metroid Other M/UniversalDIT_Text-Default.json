@@ -35,7 +35,15 @@
       "Back": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Back.png",
       "Button Start": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Start.png",
       "Button Guide": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Guide.png",
-      "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Back.png"
+      "Button Back": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Back.png",
+      "`Trigger R` | `Button B`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Trigger R.png",
+      "`Trigger R`|`Button B`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Trigger R.png",
+      "`Button B` | `Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Button B.png",
+      "`Button B`|`Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Button B.png",
+      "`Trigger R` | `Button A`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Trigger R.png",
+      "`Trigger R`|`Button A`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Trigger R.png",
+      "`Button A` | `Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Button A.png",
+      "`Button A`|`Trigger R`": "..\\#DefaultDevices\\XBOX ONE\\Text-Default\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\XBOX ONE\\Device\\Icon.png",
@@ -2398,7 +2406,15 @@
       "`WGInput/0/Xbox One Game Controller:Right Y-`": "../#DefaultDevices/XBOX ONE/Text-Default/Right Y-.png",
       "`WGInput/0/Xbox One Game Controller:Right Y+`": "../#DefaultDevices/XBOX ONE/Text-Default/Right Y+.png",
       "`WGInput/0/Xbox One Game Controller:Trigger L`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger L.png",
-      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png"
+      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png",
+      "`Trigger R` | `Button B`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png",
+      "`Trigger R`|`Button B`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png",
+      "`Button B` | `Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Button B.png",
+      "`Button B`|`Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Button B.png",
+      "`Trigger R` | `Button A`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png",
+      "`Trigger R`|`Button A`": "../#DefaultDevices/XBOX ONE/Text-Default/Trigger R.png",
+      "`Button A` | `Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Button A.png",
+      "`Button A`|`Trigger R`": "../#DefaultDevices/XBOX ONE/Text-Default/Button A.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
       "SDL/0/Nintendo Switch Pro Controller": "../#DefaultDevices/Switch_Pro Controller/Device/Icon.png",

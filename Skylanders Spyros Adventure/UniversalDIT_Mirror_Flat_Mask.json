@@ -34,7 +34,15 @@
       "Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Back.png",
       "Button Start": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Start.png",
       "Button Guide": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Guide.png",
-      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Back.png"
+      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Back.png",
+      "`Trigger R` | `Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Trigger R.png",
+      "`Trigger R`|`Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Trigger R.png",
+      "`Button B` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Button B.png",
+      "`Button B`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Button B.png",
+      "`Trigger R` | `Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Trigger R.png",
+      "`Trigger R`|`Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Trigger R.png",
+      "`Button A` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Button A.png",
+      "`Button A`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Flat_Mask\\Button A.png",

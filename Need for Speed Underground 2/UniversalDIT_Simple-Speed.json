@@ -34,7 +34,15 @@
       "Back": "Simple-Speed\\XBOX ONE\\Back.png",
       "Button Start": "Simple-Speed\\XBOX ONE\\Start.png",
       "Button Guide": "Simple-Speed\\XBOX ONE\\Guide.png",
-      "Button Back": "Simple-Speed\\XBOX ONE\\Back.png"
+      "Button Back": "Simple-Speed\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "Simple-Speed\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "Simple-Speed\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "Simple-Speed\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "Simple-Speed\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "Simple-Speed\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "Simple-Speed\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "Simple-Speed\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "Simple-Speed\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "Simple-Speed\\XBOX ONE\\Button A.png",
@@ -1244,7 +1252,15 @@
       "`Right Y-`": "Simple-Speed/XBOX ONE/Right Y-.png",
       "`Right Y+`": "Simple-Speed/XBOX ONE/Right Y+.png",
       "`Trigger L`": "Simple-Speed/XBOX ONE/Trigger L.png",
-      "`Trigger R`": "Simple-Speed/XBOX ONE/Trigger R.png"
+      "`Trigger R`": "Simple-Speed/XBOX ONE/Trigger R.png",
+      "`Trigger R` | `Button B`": "Simple-Speed/XBOX ONE/Trigger R.png",
+      "`Trigger R`|`Button B`": "Simple-Speed/XBOX ONE/Trigger R.png",
+      "`Button B` | `Trigger R`": "Simple-Speed/XBOX ONE/Button B.png",
+      "`Button B`|`Trigger R`": "Simple-Speed/XBOX ONE/Button B.png",
+      "`Trigger R` | `Button A`": "Simple-Speed/XBOX ONE/Trigger R.png",
+      "`Trigger R`|`Button A`": "Simple-Speed/XBOX ONE/Trigger R.png",
+      "`Button A` | `Trigger R`": "Simple-Speed/XBOX ONE/Button A.png",
+      "`Button A`|`Trigger R`": "Simple-Speed/XBOX ONE/Button A.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
       "`Button 0`": "Simple-Speed/Switch_Pro Controller/Button A.png",

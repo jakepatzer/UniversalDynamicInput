@@ -44,7 +44,15 @@
       "Button Y": "HalfA\\XBOX ONE\\Button Y.png",
       "Button Start": "HalfA\\XBOX ONE\\Start.png",
       "Button Guide": "HalfA\\XBOX ONE\\Guide.png",
-      "Button Back": "HalfA\\XBOX ONE\\Back.png"
+      "Button Back": "HalfA\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "HalfA\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "HalfA\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "HalfA\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "HalfA\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "HalfA\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "HalfA\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "HalfA\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "HalfA\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "HalfA\\XBOX ONE\\Button A.png",

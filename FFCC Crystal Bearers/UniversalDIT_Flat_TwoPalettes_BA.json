@@ -35,7 +35,15 @@
       "Back": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Back.png",
       "Button Start": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Start.png",
       "Button Guide": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Guide.png",
-      "Button Back": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Back.png"
+      "Button Back": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Back.png",
+      "`Trigger R` | `Button B`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Trigger R`|`Button B`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Button B` | `Trigger R`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Button B.png",
+      "`Button B`|`Trigger R`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Button B.png",
+      "`Trigger R` | `Button A`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Trigger R`|`Button A`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Trigger R.png",
+      "`Button A` | `Trigger R`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Button A.png",
+      "`Button A`|`Trigger R`": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Flat\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\_TwoPalettes_BA\\XBOX ONE\\Device\\Icon.png",
@@ -2398,7 +2406,15 @@
       "`WGInput/0/Xbox One Game Controller:Right Y-`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Right Y-.png",
       "`WGInput/0/Xbox One Game Controller:Right Y+`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Right Y+.png",
       "`WGInput/0/Xbox One Game Controller:Trigger L`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger L.png",
-      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png"
+      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png",
+      "`Trigger R` | `Button B`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png",
+      "`Trigger R`|`Button B`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png",
+      "`Button B` | `Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Button B.png",
+      "`Button B`|`Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Button B.png",
+      "`Trigger R` | `Button A`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png",
+      "`Trigger R`|`Button A`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Trigger R.png",
+      "`Button A` | `Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Button A.png",
+      "`Button A`|`Trigger R`": "../#DefaultDevices/_TwoPalettes_BA/XBOX ONE/Flat/Button A.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
       "SDL/0/Nintendo Switch Pro Controller": "../#DefaultDevices/_TwoPalettes_BA/Switch_Pro Controller/Device/Icon.png",

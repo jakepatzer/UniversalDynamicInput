@@ -34,7 +34,15 @@
       "Back": "ShyGuy\\XBOX ONE\\Back.png",
       "Button Start": "ShyGuy\\XBOX ONE\\Start.png",
       "Button Guide": "ShyGuy\\XBOX ONE\\Guide.png",
-      "Button Back": "ShyGuy\\XBOX ONE\\Back.png"
+      "Button Back": "ShyGuy\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "ShyGuy\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "ShyGuy\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "ShyGuy\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "ShyGuy\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "ShyGuy\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "ShyGuy\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "ShyGuy\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "ShyGuy\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "ShyGuy\\XBOX ONE\\Button A.png",

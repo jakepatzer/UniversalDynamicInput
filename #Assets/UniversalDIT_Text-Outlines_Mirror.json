@@ -35,7 +35,15 @@
       "Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Back.png",
       "Button Start": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Start.png",
       "Button Guide": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Guide.png",
-      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Back.png"
+      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Back.png",
+      "`Trigger R` | `Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Trigger R.png",
+      "`Trigger R`|`Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Trigger R.png",
+      "`Button B` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Button B.png",
+      "`Button B`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Button B.png",
+      "`Trigger R` | `Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Trigger R.png",
+      "`Trigger R`|`Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Trigger R.png",
+      "`Button A` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Button A.png",
+      "`Button A`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Text-Outlines\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "DInput/0/Bluetooth LE XINPUT compatible input device": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Device\\Icon.png",
@@ -2398,7 +2406,15 @@
       "`WGInput/0/Xbox One Game Controller:Right Y-`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Right Y-.png",
       "`WGInput/0/Xbox One Game Controller:Right Y+`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Right Y+.png",
       "`WGInput/0/Xbox One Game Controller:Trigger L`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger L.png",
-      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png"
+      "`WGInput/0/Xbox One Game Controller:Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png",
+      "`Trigger R` | `Button B`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png",
+      "`Trigger R`|`Button B`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png",
+      "`Button B` | `Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button B.png",
+      "`Button B`|`Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button B.png",
+      "`Trigger R` | `Button A`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png",
+      "`Trigger R`|`Button A`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Trigger R.png",
+      "`Button A` | `Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button A.png",
+      "`Button A`|`Trigger R`": "../#DefaultDevices/_Mirror/XBOX ONE/Text-Outlines/Button A.png"
     },
     "SDL/0/Nintendo Switch Pro Controller": {
       "SDL/0/Nintendo Switch Pro Controller": "../#DefaultDevices/_Mirror/Switch_Pro Controller/Device/Icon.png",

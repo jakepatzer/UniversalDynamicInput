@@ -34,7 +34,15 @@
       "Back": "Tak\\XBOX ONE\\Back.png",
       "Button Start": "Tak\\XBOX ONE\\Start.png",
       "Button Guide": "Tak\\XBOX ONE\\Guide.png",
-      "Button Back": "Tak\\XBOX ONE\\Back.png"
+      "Button Back": "Tak\\XBOX ONE\\Back.png",
+      "`Trigger R` | `Button B`": "Tak\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button B`": "Tak\\XBOX ONE\\Trigger R.png",
+      "`Button B` | `Trigger R`": "Tak\\XBOX ONE\\Button B.png",
+      "`Button B`|`Trigger R`": "Tak\\XBOX ONE\\Button B.png",
+      "`Trigger R` | `Button A`": "Tak\\XBOX ONE\\Trigger R.png",
+      "`Trigger R`|`Button A`": "Tak\\XBOX ONE\\Trigger R.png",
+      "`Button A` | `Trigger R`": "Tak\\XBOX ONE\\Button A.png",
+      "`Button A`|`Trigger R`": "Tak\\XBOX ONE\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "Tak\\XBOX ONE\\Button A.png",

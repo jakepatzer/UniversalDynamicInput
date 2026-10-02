@@ -39,6 +39,12 @@ repos:
         entry: python "#DefaultDevices/generate_alternate_assets.py"
         # files: "^#DefaultDevices/" # TODO: only run when images are modified
         pass_filenames: false
+      - id: generate_or_aliases
+        name: Generate OR Mapping Aliases
+        language: python
+        entry: python "#Assets/generate_or_aliases.py"
+        files: \.json$
+        pass_filenames: false
 
 ci:
   autoupdate_branch: main

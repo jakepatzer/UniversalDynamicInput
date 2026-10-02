@@ -34,7 +34,15 @@
       "Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Back.png",
       "Button Start": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Start.png",
       "Button Guide": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Guide.png",
-      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Back.png"
+      "Button Back": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Back.png",
+      "`Trigger R` | `Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Trigger R.png",
+      "`Trigger R`|`Button B`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Trigger R.png",
+      "`Button B` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Button B.png",
+      "`Button B`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Button B.png",
+      "`Trigger R` | `Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Trigger R.png",
+      "`Trigger R`|`Button A`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Trigger R.png",
+      "`Button A` | `Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Button A.png",
+      "`Button A`|`Trigger R`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Button A.png"
     },
     "DInput/0/Bluetooth LE XINPUT compatible input device": {
       "`Button 0`": "..\\#DefaultDevices\\_Mirror\\XBOX ONE\\Defaultstyle\\Button A.png",
